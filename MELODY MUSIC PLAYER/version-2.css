@@ -1,0 +1,15 @@
+/* 
+  * File                        :version-2.css
+ * Project                     : To create a web based melody music player.
+ * Author                     : YASHKUMAR CHHATANI
+ * Last Date Modified        : APRIL-18-2020
+ * Description               : style that applies on the JS EXPORT BACKGROUND PROCESS
+*/
+
+/* the css formatting for the box for including the background process*/
+* { box-sizing: border-box }
+#c { width: 5000px; }
+.note { width: 20px; height: 20px; float: left; border: 1px solid; }
+[line="13"] { background: #aaa }
+#exp, #exp2 { width: 90vh; height: 100px }
+
